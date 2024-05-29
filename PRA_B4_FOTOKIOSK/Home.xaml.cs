@@ -75,6 +75,5 @@ namespace PRA_B4_FOTOKIOSK
         {
             SearchController.SearchButtonClick();
         }
-        // HEllo help this man
     }
 }

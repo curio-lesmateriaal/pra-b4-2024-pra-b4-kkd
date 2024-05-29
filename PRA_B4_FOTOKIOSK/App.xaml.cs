@@ -8,7 +8,6 @@ using System.Windows;
 
 namespace PRA_B4_FOTOKIOSK
 {
-    //test KL repository
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
